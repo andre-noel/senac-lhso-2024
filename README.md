@@ -2,6 +2,10 @@
 
 Prof. Andre Noel
 
+## Slides de Aula
+
+- [Google Drive](https://drive.google.com/drive/folders/14g5dtkML7BnWSwGc_H2VxSCn4Y7ZiZbj?usp=sharing)
+
 ## Trabalho
 
 A tabela ASCII (_American Standard Code for Information Interchange_) é um padrão de codificação criado nos anos 1960 para representar caracteres em computadores e dispositivos eletrônicos, utilizando valores numéricos de 0 a 127. Cada número corresponde a um símbolo, letra ou comando de controle, como letras do alfabeto, números e sinais de pontuação. Sua simplicidade e abrangência inicial tornaram o ASCII fundamental para o desenvolvimento da comunicação entre sistemas. No entanto, o ASCII é limitado a representar apenas os caracteres do alfabeto inglês. Com o aumento da necessidade de suportar uma diversidade maior de idiomas e símbolos, surgiu o Unicode, um padrão mais robusto que estende a capacidade de codificação para mais de 140.000 caracteres, cobrindo diferentes sistemas de escrita e símbolos gráficos. O Unicode é compatível com o ASCII, garantindo a interoperabilidade e expandindo significativamente a abrangência da comunicação digital global.
